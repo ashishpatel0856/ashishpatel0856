@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on: `QuickDish` – A real-world **online food ordering system**
+- 🔭 I’m currently working on: `linkedlnProject` – A real-world **online food ordering system**
 - 🌱 Learning: Microservices, Docker, Cloud Deployment
 - 📫 Reach me at: [ashipatel0856@gmail.com](mailto:ashipatel0856@gmail.com)
 
@@ -18,9 +18,9 @@
 - 💳 Payments: `Stripe Integration (with Webhooks)`
 - 📧 Email Services: `SMTP`, `Email Verification`, `OTP`
 - 📍 Maps & Tracking: `Google Maps API`, `Live Delivery Tracking`
-- 🗃️ Database: `PostgreSQL`, `MySQL`
+- 🗃️ Database: `PostgreSQL`, `MySQL`,`Neo4j`
 - 🌐 Frontend (Basic): `HTML`, `CSS`, `React (basics)`
-- ☁️ Deployment: `Render`, `GitHub`, `Vercel`, `Firebase`
+- ☁️ Deployment: `AWS CLOUD`,`Render`, `GitHub`, `Vercel`
 
 ---
 
@@ -43,15 +43,30 @@ A full-stack backend-only food delivery platform built using:
 
 ![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashipatel0856&show_icons=true&theme=radical)
 
+------
+
+## 🔥 Contributions Graph
+
+[![Ashish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashipatel0856&theme=react-dark)](https://github.com/ashipatel0856)
+
 ---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ashipatel0856&theme=radical&margin-w=10&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 ## 🗺️ Future Goals
 
 - 🚀 Master Spring Boot Microservices
 - ☁️ Learn Docker + Kubernetes
 - 🤝 Collaborate on open source Java backends
+--
+## 🏆 GitHub Trophies
 
----
+[![trophy](https://github-profile-trophy.vercel.app/?username=ashipatel0856&theme=radical&margin-w=10&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-Thanks for visiting! 🙌  
+
+Thanks for visiting! my github profile 🙌  
 Feel free to ⭐ my projects or reach out for collaboration.
