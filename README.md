@@ -64,13 +64,13 @@ A full-stack backend-only food delivery platform built using:
 - ✅ SMTP-based email verification
 - ✅ Clean REST APIs & PostgreSQL database
 
-🔗 [View Project Repo](https://github.com/ashipatel0856/QuickDish)
+🔗 [View Project Repo](https://github.com/ashishpatel0856/QuickDish)
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashipatel0856&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishpatel0856&show_icons=true&theme=radical)
 
 
 ---
@@ -78,7 +78,7 @@ A full-stack backend-only food delivery platform built using:
 
 ## 🔥 Contributions Graph
 
-[![Ashish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashipatel0856&theme=react-dark)](https://github.com/ashipatel0856)
+[![Ashish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashishpatel0856&theme=react-dark)](https://github.com/ashishpatel0856)
 
 
 ## 🗺️ Learning
@@ -89,7 +89,7 @@ A full-stack backend-only food delivery platform built using:
 --
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ashipatel0856&theme=radical&margin-w=10&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ashishpatel0856&theme=radical&margin-w=10&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 Thanks for visiting! my github profile 🙌  
