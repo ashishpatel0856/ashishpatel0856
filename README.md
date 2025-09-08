@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ashish Kumar
+# 👋 Hi , I'm Ashish Kumar
 
 🚀 Welcome to my GitHub profile! I'm a passionate Java backend developer who loves building real-world solutions using Spring Boot, REST APIs, and modern tools.
 
@@ -6,8 +6,8 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on: `linkedlnProject` – A real-world **online food ordering system**
-- 🌱 Learning: Microservices, Docker, Cloud Deployment
+- 🔭 I’m currently working on: `BankingApplications using spring boot and microservices` 
+- 🌱 Learning: Data Structure Algorithm
 - 📫## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-kumar-123456789/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
