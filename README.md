@@ -61,4 +61,33 @@ A backend-only food delivery platform built using:
 - ✅ SMTP-based email verification
 - ✅ Clean REST APIs & PostgreSQL database
 
-🔗 [View Project Repo](https://github.com/ashishpatel0856/Quic)
+🔗 [View Project Repo](https://github.com/ashishpatel0856/QuickDish)
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishpatel0856&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Contributions Graph
+
+[![Ashish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashishpatel0856&theme=react-dark)](https://github.com/ashishpatel0856)
+
+---
+
+## 🗺️ Learning
+
+- 🚀 Master Spring Boot Microservices
+- ☁️ Learn Docker + Kubernetes + Kafka
+- 🤝 Collaborate on open source Java backends
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ashishpatel0856&theme=radical&margin-w=10&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+Thanks for visiting! 🙌  
+Feel free to ⭐ my projects or reach out for collaboration.
