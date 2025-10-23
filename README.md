@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Ashish Kumar
+🚀 I'm a passionate Java Backend Developer skilled in Spring Boot, REST APIs, and microservices.  
+I love solving real-world problems with scalable backend architecture and clean code.
 
-🚀 Welcome to my GitHub profile! I'm a passionate Java backend developer building real-world solutions using Spring Boot, REST APIs, and modern tools.
 
 ---
 
@@ -82,7 +83,7 @@ A backend-only food delivery platform built using:
 ## 🗺️ Learning
 
 - 🚀 Master Spring Boot Microservices
-- ☁️ Learn Docker + Kubernetes + Kafka
+- ☁️ Learn : microservices and dsa
 - 🤝 Collaborate on open source Java backends
 
 ---
