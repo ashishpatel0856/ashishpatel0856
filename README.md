@@ -19,13 +19,13 @@ I love solving real-world problems with scalable backend architecture and clean 
 
 ## 🔥 Tech Stack
 
-### 💻 Backend
+ 💻 Backend
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=json-web-tokens&logoColor=white)
 
-### 💳 Payments
+ 💳 Payments
 ![Stripe](https://img.shields.io/badge/Stripe-6772e5?style=flat-square&logo=stripe&logoColor=white)
 
 ### 📧 Email Services
