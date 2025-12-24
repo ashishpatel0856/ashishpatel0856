@@ -73,7 +73,6 @@
 ✔ Spring Boot Microservices  
 ✔ Secure JWT Authentication  
 ✔ React-based Frontend  
-✔ Kafka Event Communication  
 ✔ Stripe Payment Integration  
 ✔ PostgreSQL + JPA  
 ✔ Dockerized Services  
