@@ -75,27 +75,17 @@
 
 ---
 
-## 📊 GitHub Stats (Stable)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165"
-    src="https://github-readme-stats.vercel.app/api?username=ashishpatel0856&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-  <img height="165"
-    src="https://streak-stats.demolab.com?user=ashishpatel0856&theme=tokyonight&hide_border=true"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashishpatel0856&theme=default" />
 </p>
-
----
 
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=ashishpatel0856&theme=tokyonight&no-frame=true&row=1&column=6"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=ashishpatel0856" />
 </p>
-
 ---
 
 ## 📈 Contribution Activity (Animated)
@@ -108,7 +98,7 @@
 
 ---
 
-## 🎯 2025 Goals
+## 🎯  Goals
 
 - 🚀 Build **production-level microservices**
 - 🧩 Crack **DSA & backend interviews**
