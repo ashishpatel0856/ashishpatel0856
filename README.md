@@ -2,8 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+Microservices+%7C+Kafka;Backend+Engineer+%7C+FinTech+%26+Banking;Clean+Code+%7C+Scalable+Systems"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend+Java+Developer;Spring+Boot+%7C+Microservices+%7C+Kafka;AWS+%7C+Docker+%7C+CI%2FCD;FinTech+%7C+Banking+Systems;Clean+Architecture+%7C+Scalable+Systems"
   />
 </p>
 
@@ -27,11 +26,11 @@
 
 ## 🧠 About Me
 
-- 💼 **Backend Engineer** (Java + Spring Boot)
-- 🔐 Building **secure & scalable microservices**
-- 🏦 Experience with **Banking / FinTech systems**
-- 📚 Practicing **DSA & System Design**
-- ⚡ Believe in **clean code & performance**
+- 💼 **Backend / DevOps Engineer** (Java + Spring Boot)
+- 🏗 Designing **scalable microservice architectures**
+- 🔐 Strong focus on **security, performance & reliability**
+- ☁ Hands-on with **AWS & cloud deployments**
+- 📚 Practicing **Data structure and algorithms*
 
 ---
 
@@ -43,10 +42,17 @@
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
 
-### 🧩 Microservices & DevOps
+###  & Messaging
+
+
+###🧩 Microservices &☁ DevOps 
 ![Kafka](https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apachekafka)
+![REST](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-success?style=for-the-badge)
+![Render](https://img.shields.io/badge/Render-Cloud-black?style=for-the-badge)
 
 ### 🗃 Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
@@ -63,32 +69,32 @@
 ## 🚀 Featured Project
 
 ### 🍽️ QuickDish — Online Food Ordering System  
-**Enterprise-grade backend architecture**
+**Cloud-ready, microservice-based backend system**
 
-✔ JWT Authentication & Role-Based Access  
-✔ Stripe Payment Integration  
-✔ Order Tracking & Notifications  
-✔ SMTP Email Verification  
-✔ PostgreSQL + JPA  
+✔ Spring Boot Microservices Architecture  
+✔ JWT Authentication & Role-Based Authorization  
+✔ Stripe Payment Gateway Integration  
+✔ Kafka-based Event Communication  
+✔ PostgreSQL + JPA (Optimized Queries)  
+✔ Dockerized Services  
+✔ CI/CD using GitHub Actions  
+✔ Deployed on **Render / AWS**
 
 🔗 **Repo:** https://github.com/ashishpatel0856/QuickDish
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Engineering Highlights (Safe – No Blank)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishpatel0856&theme=default" />
-</p>
+- 🏗 Designed **RESTful APIs** with clean architecture  
+- 🔐 Implemented **secure auth flows (JWT + Spring Security)**  
+- ☁ Deployed backend services on **cloud platforms**  
+- ⚙ Automated build & deployment using **CI/CD pipelines**  
 
-## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashishpatel0856" />
-</p>
 ---
 
-## 📈 Contribution Activity (Animated)
+## 📈 Contribution Activity
 
 <p align="center">
   <img 
@@ -98,15 +104,8 @@
 
 ---
 
-## 🎯  Goals
-
-- 🚀 Build **production-level microservices**
-- 🧩 Crack **DSA & backend interviews**
-- 🌍 Contribute to **Open Source Java projects**
-- 💼 Land a **Backend / Java Developer role**
-
 ---
 
 ### 🤝 Let's Connect
-💬 Open to **backend roles, internships & collaborations**  
+💬 Open to **Backend / DevOps roles, internships & collaborations**  
 ⭐ If you like my work — **give a star!**
