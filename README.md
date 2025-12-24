@@ -1,26 +1,36 @@
-<h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
-<h3 align="center">🚀 Full Stack Java Developer | Spring Boot | Microservices</h3>
+<h1 align="center">
+  Hi 👋, I'm Ashish Kumar
+</h1>
+
+<h3 align="center">
+  🚀 Full Stack Java Developer | Spring Boot | Microservices
+</h3>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/ashish-kumar-123456789/](https://www.linkedin.com/in/ashish-patel-28a572304)">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/ashish-patel-28a572304" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ashish%20Patel-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:your.ashishkumarr0856@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+  <a href="mailto:ashishkumarr0856@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://www.instagram.com/ashish_patel_9229/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+  <a href="https://www.instagram.com/ashish_patel_9229/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashishpatel0856&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-- 🔭 Currently working on **Banking Applications using Spring Boot & Microservices**
-- 🌱 Learning **Data Structures & Algorithms**
-- ⚡ Passionate about **scalable backend systems**
-- 🧠 Strong in **clean code & system design**
+- 💼 Backend Engineer focused on **Java & Spring Boot**
+- 🔐 Building **secure & scalable microservices**
+- 🏦 Experience in **Banking & FinTech applications**
+- 📚 Currently mastering **DSA & System Design**
+- 💡 Love writing **clean, maintainable code**
 
 ---
 
@@ -28,8 +38,8 @@
 
 ### 🚀 Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
 
 ### 🧩 Microservices & DevOps
@@ -52,13 +62,13 @@
 ## 🚀 Featured Project
 
 ### 🍽️ QuickDish — Online Food Ordering System
-**Backend-focused scalable system**
+**Enterprise-grade backend system**
 
-- 🔐 JWT Authentication & Authorization
-- 💳 Stripe Payment Gateway
-- 📍 Live Order Tracking (Google Maps)
-- 📧 SMTP Email Verification
-- 🐘 PostgreSQL Database
+✔ JWT Authentication & Role-Based Access  
+✔ Stripe Payment Integration  
+✔ Order Tracking & Notifications  
+✔ Email Verification (SMTP)  
+✔ PostgreSQL + JPA  
 
 🔗 **Repo:** https://github.com/ashishpatel0856/QuickDish
 
@@ -66,30 +76,41 @@
 
 ## 📊 GitHub Stats
 
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishpatel0856&show_icons=true&theme=tokyonight&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashishpatel0856&show_icons=true&theme=tokyonight&count_private=true" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashishpatel0856&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ashishpatel0856&theme=tokyonight&no-frame=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ashishpatel0856&theme=tokyonight" />
+</p>
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 GitHub Achievements
 
-![Ashish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashishpatel0856&theme=tokyo-night)
-
----
-
-## 🎯 Goals
-
-- ✔ Master **Spring Boot Microservices**
-- ✔ Crack **DSA**
-- ✔ Contribute to **Open Source Java Projects**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ashishpatel0856&theme=tokyonight&no-frame=true&row=1" />
+</p>
 
 ---
 
-⭐ **If you like my work, give a star & let's collaborate!**
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishpatel0856&theme=tokyo-night" />
+</p>
+
+---
+
+## 🎯 2025 Goals
+
+- 🚀 Build **Production-level Microservices**
+- 🧩 Crack **DSA & Coding Interviews**
+- 🌍 Contribute to **Open-Source Java Projects**
+- 💼 Land a **Backend / Java Developer Role**
+
+---
+
+### 🤝 Let's Connect
+💬 Open to collaboration, internships & backend roles  
+⭐ If you like my work — **give a star!**
