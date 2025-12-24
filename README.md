@@ -2,10 +2,10 @@
 <h3 align="center">🚀 Full Stack Java Developer | Spring Boot | Microservices</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashish-kumar-123456789/">
+  <a href="[https://www.linkedin.com/in/ashish-kumar-123456789/](https://www.linkedin.com/in/ashish-patel-28a572304)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:your.ashishkumarr0856@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://www.instagram.com/ashish_patel_9229/">
