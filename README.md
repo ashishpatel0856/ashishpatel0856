@@ -2,7 +2,8 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend+Java+Developer;Spring+Boot+%7C+Microservices+%7C+Kafka;AWS+%7C+Docker+%7C+CI%2FCD;FinTech+%7C+Banking+Systems;Clean+Architecture+%7C+Scalable+Systems"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+Microservices+%7C+Kafka;React+%7C+REST+APIs;AWS+%7C+Docker+%7C+CI%2FCD;Clean+Architecture+%7C+Scalable+Systems"
+    alt="Typing Animation"
   />
 </p>
 
@@ -26,11 +27,12 @@
 
 ## 🧠 About Me
 
-- 💼 **Backend / DevOps Engineer** (Java + Spring Boot)
-- 🏗 Designing **scalable microservice architectures**
-- 🔐 Strong focus on **security, performance & reliability**
+- 💼 **Full-Stack Java Developer**
+- 🧩 Backend expertise in **Spring Boot & Microservices**
+- 🌐 Frontend experience with **React**
+- 🔐 Focused on **secure, scalable & maintainable systems**
 - ☁ Hands-on with **AWS & cloud deployments**
-- 📚 Practicing **Data structure and algorithms*
+- 📚 Practicing **Data Structures & Algorithms**
 
 ---
 
@@ -42,10 +44,7 @@
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
 
-###  & Messaging
-
-
-###🧩 Microservices &☁ DevOps 
+### 🧩 Microservices & DevOps
 ![Kafka](https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apachekafka)
 ![REST](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
@@ -69,28 +68,28 @@
 ## 🚀 Featured Project
 
 ### 🍽️ QuickDish — Online Food Ordering System  
-**Cloud-ready, microservice-based backend system**
+**Full-stack, cloud-ready microservice application**
 
-✔ Spring Boot Microservices Architecture  
-✔ JWT Authentication & Role-Based Authorization  
-✔ Stripe Payment Gateway Integration  
-✔ Kafka-based Event Communication  
-✔ PostgreSQL + JPA (Optimized Queries)  
+✔ Spring Boot Microservices  
+✔ Secure JWT Authentication  
+✔ React-based Frontend  
+✔ Kafka Event Communication  
+✔ Stripe Payment Integration  
+✔ PostgreSQL + JPA  
 ✔ Dockerized Services  
-✔ CI/CD using GitHub Actions  
-✔ Deployed on **Render / AWS**
+✔ CI/CD with GitHub Actions  
+✔ Deployed on **AWS / Render**
 
 🔗 **Repo:** https://github.com/ashishpatel0856/QuickDish
 
 ---
 
-## 📊 Engineering Highlights (Safe – No Blank)
+## 📊 Engineering Highlights
 
-- 🏗 Designed **RESTful APIs** with clean architecture  
-- 🔐 Implemented **secure auth flows (JWT + Spring Security)**  
-- ☁ Deployed backend services on **cloud platforms**  
-- ⚙ Automated build & deployment using **CI/CD pipelines**  
-
+- 🏗 Designed **RESTful APIs** using clean architecture  
+- 🔐 Implemented **secure auth & role-based access**  
+- ☁ Deployed full-stack apps on **cloud platforms**  
+- ⚙ Automated builds & deployments using **CI/CD**  
 
 ---
 
@@ -104,8 +103,6 @@
 
 ---
 
----
-
 ### 🤝 Let's Connect
-💬 Open to **Backend / DevOps roles, internships & collaborations**  
+💬 Open to **Full-Stack / Java / Backend roles & internships**  
 ⭐ If you like my work — **give a star!**
