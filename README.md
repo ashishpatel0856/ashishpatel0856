@@ -28,7 +28,7 @@
 ## 🧠 About Me
 
 - 💼 **Java Full-Stack Developer**
-- 🧩 Backend expertise in **Spring Boot & Microservices**
+- 🧩 Backend expertise in **Spring Boot, Node js & Microservices**
 - 🌐 Frontend experience with **React**
 - 🔐 Focused on **secure, scalable & maintainable systems**
 - ☁ Hands-on with **AWS & cloud deployments**
