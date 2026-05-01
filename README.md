@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Microservices+%7C+Kafka;React+%7C+REST+APIs;AWS+%7C+Docker+%7C+CI%2FCD;Clean+Architecture+%7C+Scalable+Systems"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Microservices+%7C+Kafka;Nodejs+React+%7C+REST+APIs;AWS+%7C+Docker+%7C+CI%2FCD;Clean+Architecture+%7C+Scalable+Systems"
     alt="Typing Animation"
   />
 </p>
