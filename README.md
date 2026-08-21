@@ -39,15 +39,15 @@
 ## 🛠 Tech Stack
 
 ### 🚀 Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java\)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot\)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring\)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens\)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs\)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express\)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge\)
-![Google OAuth2](https://img.shields.io/badge/Google_OAuth2-4285F4?style=for-the-badge&logo=google\)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio\)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![Google OAuth2](https://img.shields.io/badge/Google_OAuth2-4285F4?style=for-the-badge&logo=google)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio)
 
 
 ### 🧩 Microservices & DevOps
